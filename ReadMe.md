@@ -21,6 +21,6 @@ WARNING - A word of warning - The test harness directly executes source code pro
 - User must enter their OpenAI API key toward the top of the Python script
 - The GPT model can be selected in the source file
 - Under Constants in the Python script - assign the number of times for the prompt to run
-- The requested algorithm is also under Constants as well as the answer to check for program output
+- The requested algorithm is also under Constants as well as the answer to check in program output
 - The constant WORKING_DIR should be set to a directory used only by the test harness with no / on the end
 - A time limit is placed on each running C program to prevent infinite loops
