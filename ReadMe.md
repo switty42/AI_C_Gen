@@ -22,15 +22,15 @@ WARNING - A word of warning - The test harness directly executes source code pro
 - The test harness is written in Python, but the example system is testing C or Python code produced by ChatGPT
 - The test harness is written with Linux in mind, modifications would be needed for other OS(s)
 - The cc compiler must be available if C is selected as the target language
-- Python3 must be available if Python is selcted as the target language
+- Python3 must be available if Python is selected as the target language
 - There is only one Python source code/script file that forms the test harness
 - A user must first install the OpenAI Python API (Google for instructions)
 - User must enter their OpenAI API key toward the top of the Python script
 - The GPT model can be selected in the source file
 - Under Constants in the Python script - assign the number of times for the prompt to run
 - The constant WORKING_DIR should be set to a directory used only by the test harness with no / on the end
-- Under Contants select C or Python as the targer language for testing
+- Under Constants select C or Python as the target language for testing
 - The ChatGPT prompt can be adjusted as needed under Constants
-- Specify successful executation as a string inside of ANSWER and ANSWER2
+- Specify successful execution as a string inside of ANSWER and ANSWER2
 - If there is only one answer duplicate both
 - A time limit is placed on each running C program to prevent infinite loops
