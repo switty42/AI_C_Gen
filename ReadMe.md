@@ -11,10 +11,9 @@ WARNING - A word of warning - The test harness directly executes source code pro
 <img src="Pics/results.jpg" width="650">
 
 ### Reports / Documentation:
-Raw logs that contain example runs can be found under Raw_Logs
-A presentation that covers the project can be found here:
-
-
+- Raw logs that contain example runs can be found under Raw_Logs
+- A presentation that covers the project can be found below:
+- [Presentation Link](https://github.com/switty42/AI_C_Gen/blob/main/Presentations/AI_C_Gen_091823.pdf)
 
 ### Usage:
 
