@@ -22,7 +22,7 @@ import os
 import random
 
 # Put OpenAI API key here
-openai.api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+openai.api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 # Uncomment GPT model desired here
 gpt_model='gpt-3.5-turbo'
@@ -36,7 +36,7 @@ GPT_TIMEOUT = 180                                                               
 TIME_LIMIT = 7                                                                             # Minutes to allow gpt c code to run before terminating
 WORKING_DIR = "/home/switty/dev/AI_C_Gen/work"                                             # Working directory for compiles etc (no slash on end)
 PROMPT = "Write a C program that calculates the 500,000th prime number efficiently."       # GPT prompt
-LANG = "C"
+LANG = "C"                                                                                 # Target language "C" or "Python"
 ANSWER = "7368787"                                                                         # Answer if generated code runs correctly
 ANSWER2 = "7,368,787"                                                                      # Second possible right answer, if only one answer, make the same as ANSWER
 ##########################################################################################
