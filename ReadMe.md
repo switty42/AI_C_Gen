@@ -15,6 +15,8 @@ WARNING - A word of warning - The test harness directly executes source code pro
 - [Raw Logs](https://github.com/switty42/AI_C_Gen/tree/main/Raw_Logs/091823)
 - A presentation that covers the project can be found below:
 - [Presentation Link](https://github.com/switty42/AI_C_Gen/blob/main/Presentations/AI_C_Gen_092223.pdf)
+- Example run recorded:
+- [Video](https://www.youtube.com/watch?v=A8K3Jd7wvS0)
 
 ### Usage:
 
